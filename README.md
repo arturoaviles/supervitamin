@@ -16,6 +16,10 @@ This is a list of programs, repositories & programming languages I love
 ###Databases
 - [MySQL](https://www.mysql.com/)
 
+###Remote Access
+- [Team Viewer](https://www.teamviewer.com)
+- [AnyDesk](http://anydesk.com/remote-desktop)
+
 ##Repos
 ### Configuration
 - [Mackup](https://github.com/lra/mackup) Keep your application settings in sync (OS X/Linux)
@@ -25,3 +29,6 @@ This is a list of programs, repositories & programming languages I love
 
 ##Programming Languages
 - [Python](https://www.python.org/)
+- [Ruby](https://www.ruby-lang.org)
+
+Made with :heart: by [@arturoaviles](https://arturoaviles.github.io/)
