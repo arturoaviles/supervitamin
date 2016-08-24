@@ -20,6 +20,10 @@ This is a list of programs, repositories & programming languages I love
 - [Team Viewer](https://www.teamviewer.com)
 - [AnyDesk](http://anydesk.com/remote-desktop)
 
+###Terminal Upgrade
+- [iTerm](https://www.iterm2.com/)
+- [Oh My Zsh](http://ohmyz.sh/)
+
 ##Repos
 ### Configuration
 - [Mackup](https://github.com/lra/mackup) Keep your application settings in sync (OS X/Linux)
