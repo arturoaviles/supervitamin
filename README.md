@@ -30,7 +30,7 @@ This is a list of programs, repositories & programming languages I love
 
 ### System Admin
 - [Sys Admin (kahun)](https://github.com/kahun/awesome-sysadmin) A curated list of amazingly awesome open source sysadmin resources.
-- [Sys Admin 2 (n1trux)](https://github.com/kahun/awesome-sysadmin)
+- [Sys Admin 2 (n1trux)](https://github.com/n1trux/awesome-sysadmin)
 
 ### Git
 - [Git Tips](https://github.com/git-tips/tips) 
