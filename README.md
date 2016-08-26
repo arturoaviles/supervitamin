@@ -7,7 +7,7 @@ This is a list of programs, repositories & programming languages I love
 - [Atom](https://atom.io/)
 
 ###Package Managers
-- [Homebrew](http://brew.sh/) Mac
+- [Homebrew (Mac)](http://brew.sh/)
 - [Package Control (Sublime)](https://packagecontrol.io/)
 
 ###Security
@@ -26,6 +26,7 @@ This is a list of programs, repositories & programming languages I love
 
 ###Automation Schedulers
 - [Z-Cron (Windows)](http://www.z-cron.com/)
+- [Crontab (Linux)](https://help.ubuntu.com/community/CronHowto#Introduction)
 
 ###Extra 
 - [Caffeine (Mac)](http://lightheadsw.com/caffeine/)
@@ -33,7 +34,7 @@ This is a list of programs, repositories & programming languages I love
 
 ##Repos
 ### Configuration
-- [Mackup (Mac/Linux)](https://github.com/lra/mackup) Keep your application settings in sync
+- [Mackup (Mac/Linux)](https://github.com/lra/mackup) Keep your application settings in sync.
 
 ### System Admin
 - [Sys Admin (kahun)](https://github.com/kahun/awesome-sysadmin) A curated list of amazingly awesome open source sysadmin resources.
