@@ -23,6 +23,7 @@ This is a list of programs, repositories & programming languages I love
 ###Terminal Upgrade
 - [iTerm](https://www.iterm2.com/)
 - [Oh My Zsh](http://ohmyz.sh/)
+- [Noti](https://github.com/variadico/noti) Trigger notifications when a process completes.
 
 ###Automation Schedulers
 - [Z-Cron (Windows)](http://www.z-cron.com/)
