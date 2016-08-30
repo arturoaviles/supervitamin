@@ -1,4 +1,4 @@
-# tools
+# Supervitamin
 This is a list of programs, repositories & programming languages I love
 
 ##Programs
