@@ -21,7 +21,7 @@ This is a list of programs, repositories & programming languages I love
 
 ###Remote Access
 - [Team Viewer](https://www.teamviewer.com)
-- [AnyDesk](http://anydesk.com/remote-desktop)
+- [AnyDesk](http://anydesk.com/remote-desktop) :computer:
 
 ###Terminal Upgrade
 - [iTerm](https://www.iterm2.com/)
@@ -36,7 +36,7 @@ This is a list of programs, repositories & programming languages I love
 - [Caffeine (Mac)](http://lightheadsw.com/caffeine/)
 - [Caffeine (Windows)](http://www.zhornsoftware.co.uk/caffeine/)
 
-##Repos
+##Repos :octocat:
 ### Configuration
 - [Mackup (Mac/Linux)](https://github.com/lra/mackup) Keep your application settings in sync.
 
