@@ -1,10 +1,10 @@
 # Supervitamin
 This is a list of programs, repositories & programming languages I love
 
-## Vitamins
+## Vitamins :sunny:
 - [Mac OS Coding Setup Guide](http://sourabhbajaj.com/mac-setup/index.html)
 
-##Programs
+##Programs :computer:
 ###Editors
 - [Sublime text](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
@@ -21,7 +21,7 @@ This is a list of programs, repositories & programming languages I love
 
 ###Remote Access
 - [Team Viewer](https://www.teamviewer.com)
-- [AnyDesk](http://anydesk.com/remote-desktop) :computer:
+- [AnyDesk](http://anydesk.com/remote-desktop) 
 
 ###Terminal Upgrade
 - [iTerm](https://www.iterm2.com/)
@@ -53,7 +53,7 @@ This is a list of programs, repositories & programming languages I love
 ### Deep Learning
 - [Tensorflow](https://github.com/tensorflow/tensorflow)
 
-##Programming Languages
+##Programming Languages :rocket:
 - [Python](https://www.python.org/)
 - [Ruby](https://www.ruby-lang.org)
 
