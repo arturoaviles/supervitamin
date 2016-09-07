@@ -1,6 +1,9 @@
 # Supervitamin
 This is a list of programs, repositories & programming languages I love
 
+## Vitamins
+- [Mac OS Coding Setup Guide](http://sourabhbajaj.com/mac-setup/index.html)
+
 ##Programs
 ###Editors
 - [Sublime text](https://www.sublimetext.com/)
