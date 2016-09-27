@@ -7,6 +7,8 @@ This is a list of programs, repositories & programming languages I love
 ##Programs :computer:
 ###Editors
 - [Sublime text](https://www.sublimetext.com/)
+  Packages:
+  - AutoFileName
 - [Atom](https://atom.io/)
 
 ###Package Managers
