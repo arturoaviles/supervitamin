@@ -5,6 +5,14 @@ This is a list of programs, repositories & programming languages I love
 - [Mac OS Coding Setup Guide](http://sourabhbajaj.com/mac-setup/index.html)
 
 ##Programs :computer:
+###Web Browsers
+- [Google Chrome](https://www.google.com/chrome/)
+  - Extensions:
+    - [TabSwitcher](https://chrome.google.com/webstore/detail/tabswitcher/dnnmaaanhggngdohooaogfcnokngjcbc)
+    - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+    - [PushBullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)
+    - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)
+    
 ###Editors
 - [Sublime text](https://www.sublimetext.com/)
   - Packages:
