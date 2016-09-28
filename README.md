@@ -67,7 +67,7 @@ This is a list of programs, repositories & programming languages I love
 - [Python](https://www.python.org/)
 - [Ruby](https://www.ruby-lang.org)
 
-##iPhone Apps :phone:
+##iPhone Apps :iphone:
 - Dropbox
 - 1Password
 - Overcast
