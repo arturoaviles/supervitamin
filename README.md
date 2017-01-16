@@ -15,6 +15,9 @@ This is a list of programs, repositories & programming languages I love
     
 ###Editors
 - [Sublime text](https://www.sublimetext.com/)
+  - Package Control:
+    - Theme Primer
+    - Go to Sublime Text/Preference/Settings and paste file content sublime.txt
   - Packages:
     - AutoFileName
 - [Atom](https://atom.io/)
