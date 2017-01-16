@@ -35,6 +35,12 @@ This is a list of programs, repositories & programming languages I love
 
 ###Terminal Upgrade
 - [iTerm](https://www.iterm2.com/)
+  - Configuration: 
+    - Uncheck in General "Native full screen windows"
+    - Profiles/Colors Colors Preset "Tango Dark"
+    - Profiles/Window Transparency
+    - Profiles/Window Style "Fullscreen"
+    - Keys/ Check "Show/hide iTerm2 with a system-wide hotkey
 - [Oh My Zsh](http://ohmyz.sh/)
 - [Noti](https://github.com/variadico/noti) Trigger notifications when a process completes.
 
