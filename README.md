@@ -12,8 +12,11 @@ This is a list of programs, repositories & programming languages I love
     - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
     - [PushBullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)
     - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)
+    - [Copy Code](https://chrome.google.com/webstore/detail/copy-code/ophfcfplhjmiakmfeemkpaoofhjlmkof)
+    - [Github File Icon](https://chrome.google.com/webstore/detail/file-icon-for-github-gitl/ficfmibkjjnpogdcfhfokmihanoldbfe/related?hl=en)
     
 ###Editors
+- VS Code
 - [Sublime text](https://www.sublimetext.com/)
   - Package Control:
     - Theme Primer
